@@ -20,6 +20,10 @@
     text-decoration-line: none;
 }
 
+.top_navbar a:hover {
+    text-decoration-line: underline;
+}
+
 #gapps {
     vertical-align: middle; 
     opacity: 0.55;
@@ -119,6 +123,10 @@
     color: rgb(26, 13, 171);
     text-decoration-line: none;
     text-decoration-style: solid;
+}
+
+.language a:hover {
+    text-decoration-line: underline;
 }
 /* Footer styling */
 .footer {
